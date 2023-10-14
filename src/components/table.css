@@ -1,0 +1,23 @@
+td,th{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+tr{
+    text-align: center;
+}
+
+.fn{
+    width:100px;
+}
+
+
+
+
+/* echo "# reacttask4" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Lahari200217/reacttask4.git
+git push -u origin main */
